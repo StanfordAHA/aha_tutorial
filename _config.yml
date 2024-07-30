@@ -33,6 +33,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
 
+permalink: /:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
