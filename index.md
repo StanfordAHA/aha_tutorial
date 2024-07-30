@@ -36,27 +36,27 @@ Two options:
 ## Program
 
 
-| Time          | Agenda                                                                  | Material      |
-| :-------------- | ------------------------------------------------------------------------- | --------------- |
-|               | AHA Overview                                                            |               |
-| 9:20-9:40am   | Agile Hardware (AHA) Methodology -*Priyanka Raina*                      | Slides (TODO) |
-| 9:40-10:00am  | AHA Flow Setup -*Kalhan Koul*                                           | Slides (TODO) |
-|               | Hardware Domain Specific Languages (DSLs)                               |               |
-| 10:00-10:20am | Magma + Fault -*Lenny Truong*                                           | Slides (TODO) |
-| 10:20-10:40am | PEak -*Caleb Donovick*                                                  | Slides (TODO) |
-| 10:40-11:00am | Lake -*Maxwell Strange*                                                 | Slides (TODO) |
-| 11:00-11:20am | Canal -*Jackson Melchert*                                               | Slides (TODO) |
-|               | Front-End Compiler                                                      |               |
-| 11:20-11:40am | Halide + Clockwork Compiler -*Jeff Setter*                              | Slides (TODO) |
-| 11:40-12:00pm | Custard Compiler + Sparse Lowering -*Olivia Hsu*                        | Slides (TODO) |
-| 12:00-1:00pm  | Lunch                                                                   |               |
-|               | Back-End Compiler                                                       |               |
-| 1:00-1:20pm   | Metamapper -*Jackson Melchert*                                          | Slides (TODO) |
-| 1:20-1:40pm   | Cascade (P&R + Pipelining) -*Jackson Melchert*                          | Slides (TODO) |
-|               | Physical Design, Design Space Exploration, and End-to-End Demonstration |               |
-|               | APEX (Automated Processing Element Exporation) -*Jackson Melchert*      | Slides (TODO) |
-| 1:40-2:00pm   | Mflwogen (Physical Design Flow Construction Tool) -*Christopher Torng*  | Slides (TODO) |
-|               | End-to-End Demonstration and Debugging -*Kalhan Koul*                   | Slides (TODO) |
+| Time          | Agenda                                                                        | Speaker           | Material                    |
+| :-------------- | ------------------------------------------------------------------------------- | ------------------- | ----------------------------- |
+|               | AHA Overview                                                                  |                   |                             |
+| 9:20-9:40am   | Agile Hardware (AHA) Methodology                                              | Priyanka Raina    | Slides (TODO), Paper (TODO) |
+| 9:40-10:00am  | AHA Flow Setup                                                                | Kalhan Koul       | Slides (TODO)               |
+|               | Hardware Domain Specific Languages (DSLs)                                     |                   |                             |
+| 10:00-10:20am | Magma + Fault                                                                 | Lenny Truong      | Slides (TODO), Paper (TODO) |
+| 10:20-10:40am | PEak                                                                          | Caleb Donovick    | Slides (TODO)               |
+| 10:40-11:00am | Lake                                                                          | Maxwell Strange   | Slides (TODO)               |
+| 11:00-11:20am | Canal                                                                         | Jackson Melchert  | Slides (TODO), Paper (TODO) |
+|               | Front-End Compiler                                                            |                   |                             |
+| 11:20-11:40am | Halide + Clockwork Compiler                                                   | Jeff Setter       | Slides (TODO), Paper (TODO) |
+| 11:40-12:00pm | Custard Compiler + Sparse Lowering                                            | Olivia Hsu        | Slides (TODO), Paper (TODO) |
+| 12:00-1:00pm  | Lunch                                                                         |                   |                             |
+|               | Back-End Compiler                                                             |                   |                             |
+| 1:00-1:20pm   | Metamapper                                                                    | Jackson Melchert  | Slides (TODO)               |
+| 1:20-1:40pm   | Cascade (P&R + Pipelining)                                                    | Jackson Melchert  | Slides (TODO), Paper (TODO) |
+|               | Physical Design, Design Space Exploration, <br />and End-to-End Demonstration |                   |                             |
+|               | APEX (Automated Processing Element Exporation)                                | Jackson Melchert  | Slides (TODO), Paper (TODO) |
+| 1:40-2:00pm   | Mflwogen (Physical Design Flow Construction Tool)                             | Christopher Torng | Slides (TODO), Paper (TODO) |
+|               | End-to-End Demonstration and Debugging -*Kalhan Koul*                         | Kalhan Koul       | Slides (TODO)               |
 
 ## Team
 
