@@ -16,7 +16,7 @@ Tutorial venue: AT&T Hotel and Conference Center, Austin, Texas
 
 Tutorial registration: [Link](https://microarch.org/micro57/attend/register.php)
 
-Preliminary Setup: TODO - Docker instructions
+Preliminary Setup: [**Read about Docker**](/docker/)
 
 If you are interested in attending this tutorial, make sure to sign up for it when registering for MICRO.
 
