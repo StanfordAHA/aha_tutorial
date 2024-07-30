@@ -58,3 +58,35 @@ Two options:
 |               | APEX (Automated Processing Element Exporation) -*Jackson Melchert*      | Slides (TODO) |
 | 1:40-2:00pm   | Mflwogen (Physical Design Flow Construction Tool) -*Christopher Torng*  | Slides (TODO) |
 |               | End-to-End Demonstration and Debugging -*Kalhan Koul*                   | Slides (TODO) |
+
+
+## Team
+
+Agile Hardware (AHA) group at Stanford University
+
+
+### Speakers
+
+
+**Priyanka Raina** received the B.Tech. degree in Electrical Engineering from the Indian Institute of Technology Delhi, New Delhi, India, in 2011, and the M.S. and Ph.D. degrees in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology, Cambridge, MA, USA, in 2013 and 2018, respectively. She was a Visiting Research Scientist with NVIDIA Corporation, Santa Clara, CA, USA, in 2018. She is currently an Assistant Professor of electrical engineering with Stanford University, Stanford, CA, USA, where she works on domain-specific hardware architectures and agile hardware–software codesign methodology.
+
+Dr. Raina is a 2018 Terman Faculty Fellow. She was a co-recipient of the Best Demo Paper Award at VLSI 2022, the Best Student Paper Award at VLSI 2021, the IEEE Journal of Solid-State Circuits (JSSC) Best Paper Award in 2020, the Best Paper Award at MICRO 2019, and the Best Young Scientist Paper Award at ESSCIRC 2016. She has won the Sloan Research Fellowship in 2024, the National Science Foundation (NSF) CAREER Award in 2023, the Intel Rising Star Faculty Award in 2021, and the Hellman Faculty Scholar Award in 2019. She was the Program Chair of the IEEE Hot Chips in 2020. She serves as an Associate Editor for the IEEE Journal of Solid-State Circuits and IEEE Solid-State Circuits Letters.
+
+**Kalhan Koul** is an Electrical Engineering Ph.D. student at Stanford University supervised by Professor Priyanka Raina. He received a B.S. in Electrical Engineering Honors and a B.A. in Plan II Honors (Liberal Arts) from the University of Texas in 2018. His research interests are in reconfigurable accelerator architectures and agile hardware design.
+\end{IEEEbiography}
+
+**Lenny Truong** received his Ph.D. from Stanford University supervised by Professor Pat Hanrahan.
+His research interests lie at the intersection of programming languages, compilers, and hardware.
+Before Stanford, Lenny received his B.S. in Electrical Engineering and Computer Science from the University of California, Berkeley where he conducted research on DSLs for parallel computing under the supervision of Professor Armando Fox. Lenny is now at SiFive continuing his work on improving hardware tools with an emphasis on generator verification.
+
+**Caleb Donovick** is an unaffiliated scientist.  He received a Ph.D. in Computer Science from Stanford University where he was advised by Clark Barrett and Pat Hanrahan.  His Ph.D. work focused on the intersection of programming languages, compilers, digital design, and formal methods. He is interested in developing flexible languages and libraries to aid designers with a focus on practical usability and formal correctness.
+
+**Maxwell Strange** is an Electrical Engineering Ph.D. student at Stanford University supervised by Professor Mark Horowitz. He received a B.S. in Electrical and Computer Engineering and Computer Science from the University of Wisconsin - Madison in 2017. His research interests include domain-specific hardware architectures, hardware-software co-design, and embedded systems design.
+
+**Jackson Melchert** is an Electrical Engineering Ph.D. student at Stanford University supervised by Professor Priyanka Raina. He received a B.S. in Electrical and Computer Engineering and Computer Science from the University of Wisconsin - Madison in 2019. Jack is broadly interested in optimizing configurable hardware to approach the performance and efficiency of application-specific accelerators.
+
+**Jeff Setter** received his B.S. in Electrical and Computer Engineering from Cornell University, Ithaca, NY, USA, in 2015. He finished his Ph.D. in Electrical Engineering at Stanford University, Stanford, CA, USA, in 2023, where his dissertation topic focused on compiling Halide applications to reconfigurable accelerators. Jeff is currently working at Google on the compiler team for the machine learning accelerator on Pixel devices. His research interests include machine learning, image processing, compilers, hardware-software co-design, and domain-specific accelerators.
+
+**Olivia Hsu** is a Computer Science Ph.D. student at Stanford University supervised by Professor Kunle Olukotun and Professor Fredrik Kjolstad. She received a B.S. in Electrical Engineering and Computer Science from the University of California, Berkeley in 2019. Olivia's current research is on compiling and mapping sparse applications to accelerated computing systems, and her research interests broadly include accelerator architectures, programming systems, and domain-specific compilers. Her research has won a distinguished paper award at PLDI 2023.
+
+**Christopher Torng** is an Assistant Professor in the Department of Electrical and Computer Engineering at the University of Southern California. Prior to his appointment, he was a postdoctoral researcher at Stanford University from 2019 to 2022 operating in the leadership of the Stanford AHA Agile Hardware Project, where he worked on creating high-performance and energy-efficient architectures for domain-specific hardware acceleration supported by an agile software-hardware co-design methodology. He received his Ph.D. degree from Cornell University in Electrical and Computer Engineering in 2019. He has over ten years of experience building complex digital SoCs as ASIC prototypes as well as new agile flow tools that have already supported tapeouts for at least 12 academic chips, implemented in technologies from 180nm to 12nm. His activities have resulted in his selection as a Rising Star in Computer Architecture by Georgia Tech as well as an IEEE MICRO Top Pick from Hot Chips.
