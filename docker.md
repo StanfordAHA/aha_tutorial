@@ -1,6 +1,6 @@
 ---
-layout: post
+layout: default
 permalink: /docker/
-title:  docker
+title:  Stanford AHA
 ---
-How to use docker for the AHA flow
+# Using Docker to Run the AHA Flow
