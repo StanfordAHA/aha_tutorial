@@ -2,10 +2,9 @@
 layout: default
 title: Stanford AHA
 ---
+## [MICRO 2024](https://microarch.org/micro57/index.php) tutorial (WIP)
 
-## [MICRO 2024](https://microarch.org/micro57/index.php) tutorial
-
-A tutorial on the Agile Hardware Design Flow from Stanford University
+A tutorial on the [Agile Hardware Design](https://aha.stanford.edu/) Flow from Stanford University
 
 Latest update: 7/30/24
 
@@ -32,7 +31,7 @@ Domain-specific accelerators play a key role in improving the performance and en
 Two options:
 
 * Use Docker image for tutorial (preferred)
-* Or install AHA flow locally
+* Or install AHA flow locally ([https://github.com/StanfordAHA/aha](https://github.com/StanfordAHA/aha))
 
 ## Program
 
