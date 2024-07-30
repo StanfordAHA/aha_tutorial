@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Hello
+title: Stanford AHA
 ---
-<h1>AHA tutorial!</h1>
-<p>A tutorial on the Agile Hardware Design Flow from Stanford University.</p>
 
 ## [MICRO 2024](https://microarch.org/micro57/index.php) tutorial
+
+A tutorial on the Agile Hardware Design Flow from Stanford University
 
 Latest update: 7/30/24
 
@@ -59,14 +59,11 @@ Two options:
 | 1:40-2:00pm   | Mflwogen (Physical Design Flow Construction Tool) -*Christopher Torng*  | Slides (TODO) |
 |               | End-to-End Demonstration and Debugging -*Kalhan Koul*                   | Slides (TODO) |
 
-
 ## Team
 
 Agile Hardware (AHA) group at Stanford University
 
-
 ### Speakers
-
 
 **Priyanka Raina** received the B.Tech. degree in Electrical Engineering from the Indian Institute of Technology Delhi, New Delhi, India, in 2011, and the M.S. and Ph.D. degrees in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology, Cambridge, MA, USA, in 2013 and 2018, respectively. She was a Visiting Research Scientist with NVIDIA Corporation, Santa Clara, CA, USA, in 2018. She is currently an Assistant Professor of electrical engineering with Stanford University, Stanford, CA, USA, where she works on domain-specific hardware architectures and agile hardware–software codesign methodology.
 
