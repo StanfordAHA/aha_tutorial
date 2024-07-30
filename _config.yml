@@ -36,7 +36,7 @@ plugins:
 collections:
   posts:
     output: true
-    permalink: /:collection:/:title/
+    permalink: /:collection/:title/
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
