@@ -38,6 +38,7 @@ collections:
     output: true
     permalink: /:collection:/:title/
 
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
