@@ -36,7 +36,7 @@ plugins:
 collections:
   posts:
     output: true
-    permalink: /:title/
+    permalink: /:collection:/:title/
 
 
 # Exclude from processing.
