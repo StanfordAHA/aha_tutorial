@@ -30,7 +30,7 @@ Domain-specific accelerators play a key role in improving the performance and en
 
 Two options:
 
-* Use Docker image for tutorial (preferred)
+* Use Docker image for tutorial [**AHA Docker**]({{ site.baseurl }}/docker/) (preferred)
 * Or install AHA flow locally ([https://github.com/StanfordAHA/aha](https://github.com/StanfordAHA/aha))
 
 ## Program
