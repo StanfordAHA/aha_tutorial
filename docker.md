@@ -9,6 +9,9 @@ title:  Stanford AHA
 
 # Install Docker
 
+NOTE: prototype instructions from ESP tutorial can be found here:
+<https://esp.cs.columbia.edu/tutorials/isca2024/docker>
+
 ```
 sudo systemctl start docker
 ```
