@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Stanford AHA
+title: Stanford AHA Tutorial
 ---
-## [MICRO 2024](https://microarch.org/micro57/index.php) tutorial (WIP)
+## [MICRO 2024](https://microarch.org/micro57/index.php) AHA Tutorial (WIP)
 
 A tutorial on the [Agile Hardware Design](https://aha.stanford.edu/) Flow from Stanford University
 
