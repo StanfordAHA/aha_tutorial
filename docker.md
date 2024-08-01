@@ -36,13 +36,25 @@ You may need to add login credentials to be able to pull. In that case you can a
 ```
 docker login -u <your-dockerhub-username>
 ```
----BOOKMARK---
 
-Run Docker
+# Start the Docker container
 
+## Linux
+
+Depending on how your Linux is set up, you may be able to launch the container simply by doing this
 ```
+container_name=any-name-you-like
 docker run -it -d --name ${container_name} stanfordaha/garnet:latest bash
 ```
+
+Or, if that doesn't work so well, you can try this more complicated invocation, copied from the ESP tutorial (see "Attribution" section below). This command specifically includes security-opt, network, env and volume arguments
+```
+docker run -it --name ${container_name} --security-opt label=type:container_runtime_t --network=host -e DISPLAY=$DISPLAY -v "$HOME/.Xauthority:/root/.Xauthority:rw" stanfordaha/garnet:latest /bin/bash
+```
+
+
+
+---BOOKMARK---
 
 ## Attribution
 
