@@ -54,6 +54,9 @@ docker run -it --name ${container_name} \
   -e DISPLAY=$DISPLAY -v "$HOME/.Xauthority:/root/.Xauthority:rw" \
   stanfordaha/garnet:latest /bin/bash
 ```
+## MacOS and Windows 10
+
+The <a href=https://esp.cs.columbia.edu/tutorials/isca2024/docker/>ESP tutorial</a> has instructions for starting a container on MacOS and Windows, but most of the compexity seems to involve communicating with an X server, which we don't do. For our purposes, you should probably be able to use the same Linux `docker run` command as shown above, in a command or powershell window.
 
 
 
