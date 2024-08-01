@@ -22,13 +22,21 @@ Then you need to logout and log back in and after that you can verify you are pa
 
 # Download the Docker image
 
-TODO: should we create a demo docker image instead??
+<i>TODO: should we create a demo docker image instead??</i>
 
-Pull Image
+The Docker image for this tutorial is available on DockerHub:
+<a href=https://hub.docker.com/r/stanfordaha/garnet/>stanfordaha/garnet</a>
+The image for the tutorial is `stanfordaha/garnet:latest` (about 6-8 GB in size).
 
+Download the Docker image by running the following command (on Windows 10 you should run it in the PowerShell).
 ```
 docker pull stanfordaha/garnet:latest
 ```
+You may need to add login credentials to be able to pull. In that case you can add your credentials by running the following. A prompt will ask for your password as well.
+```
+docker login -u <your-dockerhub-username>
+```
+---BOOKMARK---
 
 Run Docker
 
