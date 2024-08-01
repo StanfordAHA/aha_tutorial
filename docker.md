@@ -25,9 +25,9 @@ Then you need to logout and log back in and after that you can verify you are pa
 
 <i>TODO: should we create a demo docker image instead??</i>
 
-The Docker image for this tutorial is available on DockerHub:
-<a href=https://hub.docker.com/r/stanfordaha/garnet/>stanfordaha/garnet</a>
-The image for the tutorial is `stanfordaha/garnet:latest` (about 6-8 GB in size).
+The Docker image for this tutorial is available on DockerHub as 
+<a href=https://hub.docker.com/r/stanfordaha/garnet/>stanfordaha/garnet</a>.
+We will be using the one tagged `stanfordaha/garnet:latest` (about 6-8 GB in size).
 
 Download the Docker image by running the following command (on Windows 10 you should run it in the PowerShell).
 ```
@@ -42,12 +42,12 @@ docker login -u <your-dockerhub-username>
 
 ## Linux
 
-Depending on how your Linux is set up, you may be able to launch the container simply by doing this
+In Linux, you should be able to launch the container by doing this
 ```
 container_name=any-name-you-like
 docker run -it -d --name ${container_name} stanfordaha/garnet:latest bash
 ```
-
+<!-- THIS IS COMMENTED OUT
 Or, if that doesn't work so well, you can try this more complicated invocation, copied from the ESP tutorial (see "Attribution" section below). This command specifically includes security-opt and network arguments, and also maybe allows X connections from inside the container(?)
 ```
 docker run -it --name ${container_name} \
@@ -55,6 +55,8 @@ docker run -it --name ${container_name} \
   -e DISPLAY=$DISPLAY -v "$HOME/.Xauthority:/root/.Xauthority:rw" \
   stanfordaha/garnet:latest /bin/bash
 ```
+-->
+
 ## MacOS and Windows 10
 
 The <a href=https://esp.cs.columbia.edu/tutorials/isca2024/docker/>ESP tutorial</a> has instructions for starting a container on MacOS and Windows, but most of the compexity seems to involve communicating with an X server, which we don't do. For our purposes, you should probably be able to use the same Linux `docker run` command as shown above, in a command or powershell window.
