@@ -36,7 +36,7 @@ Run Docker
 docker run -it -d --name ${container_name} stanfordaha/garnet:latest bash
 ```
 
-# Attribution
+## Attribution
 
 This tutorial was inspired by, and copied liberally from, Columbia's <a href=https://esp.cs.columbia.edu/tutorials/isca2024/docker/>ESP tutorial.</a>
 
