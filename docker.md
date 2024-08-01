@@ -5,7 +5,8 @@ title:  Stanford AHA
 ---
 # Using Docker to Run the AHA Flow
 
-[Docker Overview](https://docs.docker.com/guides/docker-overview/)
+[Docker Overview](https://docs.docker.com/guides/docker-overview/) :: 
+<https://docs.docker.com/guides/docker-overview/>
 
 # Install Docker
 
@@ -58,9 +59,28 @@ docker run -it --name ${container_name} \
 
 The <a href=https://esp.cs.columbia.edu/tutorials/isca2024/docker/>ESP tutorial</a> has instructions for starting a container on MacOS and Windows, but most of the compexity seems to involve communicating with an X server, which we don't do. For our purposes, you should probably be able to use the same Linux `docker run` command as shown above, in a command or powershell window.
 
+# Useful Docker commands
+```
+docker images                 # List all local images
+docker rmi <image-name>       # Delete an image
 
+docker ps -a                  # List all local containers and their IDs
+docker stop   <container-ID>  # Stop a container
+docker start  <container-ID>  # Start a container
+docker attach <container-ID>  # Attach to a running container
+docker rm -f  <container-ID>  # Delete a container
 
----BOOKMARK---
+# Copy data from host machine to a container
+docker cp <path-on-host> <container-ID>:/<path-inside-container>
+
+# Copy data from container to host machine
+docker cp <container-ID>:/<path-inside-container> <path-on-host>
+
+# Exit a container (do this from *inside* the container)
+exit   
+```
+Complete Docker documentation can be found here: <https://docs.docker.com/>
+
 
 ## Attribution
 
