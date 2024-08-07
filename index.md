@@ -39,24 +39,24 @@ Two options:
 | Time          | Agenda                                                                       | Speaker           | Material                                                                      |
 | :-------------- | ------------------------------------------------------------------------------ | ------------------- | ------------------------------------------------------------------------------- |
 |               | AHA Overview                                                                 |                   |                                                                               |
-| 9:00-9:40am   | Agile Hardware (AHA) Methodology                                             | Priyanka Raina    | Slides (TODO),[Paper](https://dl.acm.org/doi/10.1145/3534933)                 |
-| 9:40-10:00am  | AHA Docker Flow Setup                                                        | Kalhan Koul       | Slides (TODO)                                                                 |
+| 9:00-9:40am   | Agile Hardware (AHA) Methodology                                             | Priyanka Raina    | Slides,[Paper](https://dl.acm.org/doi/10.1145/3534933)                 |
+| 9:40-10:00am  | AHA Docker Flow Setup                                                        | Kalhan Koul       | Slides                                                                 |
 |               | Hardware Domain Specific Languages (DSLs)                                    |                   |                                                                               |
-| 10:00-10:30am | Magma + Fault                                                                | Lenny Truong      | Slides (TODO),[Paper](https://dl.acm.org/doi/10.1007/978-3-030-53288-8_19)    |
-| 10:30-11:00am | PEak                                                                         | Caleb Donovick    | Slides (TODO)                                                                 |
-| 11:00-11:30am | Lake                                                                         | Maxwell Strange   | Slides (TODO)                                                                 |
-| 11:30-12:00pm | Canal                                                                        | Jackson Melchert  | Slides (TODO),[Paper](https://ieeexplore.ieee.org/document/10105430)          |
+| 10:00-10:30am | Magma + Fault                                                                | Lenny Truong      | Slides,[Paper](https://dl.acm.org/doi/10.1007/978-3-030-53288-8_19)    |
+| 10:30-11:00am | PEak                                                                         | Caleb Donovick    | Slides                                                                |
+| 11:00-11:30am | Lake                                                                         | Maxwell Strange   | Slides                                                                |
+| 11:30-12:00pm | Canal                                                                        | Jackson Melchert  | Slides,[Paper](https://ieeexplore.ieee.org/document/10105430)          |
 | 12:00-1:00pm  | Lunch                                                                        |                   |                                                                               |
 |               | Front-End Compiler                                                           |                   |                                                                               |
-| 1:00-1:30pm   | Halide + Clockwork Compiler                                                  | Jeff Setter       | Slides (TODO),[Paper](https://dl.acm.org/doi/10.1145/3572908)                 |
-| 1:30-2:00pm   | Custard Compiler + Sparse Lowering                                           | Olivia Hsu        | Slides (TODO),[Paper](https://dl.acm.org/doi/10.1145/3582016.3582051)         |
+| 1:00-1:30pm   | Halide + Clockwork Compiler                                                  | Jeff Setter       | Slides,[Paper](https://dl.acm.org/doi/10.1145/3572908)                 |
+| 1:30-2:00pm   | Custard Compiler + Sparse Lowering                                           | Olivia Hsu        | Slides,[Paper](https://dl.acm.org/doi/10.1145/3582016.3582051)         |
 |               | Back-End Compiler                                                            |                   |                                                                               |
-| 2:00-2:30pm   | Metamapper                                                                   | Jackson Melchert  | Slides (TODO)                                                                 |
-| 2:30-3:00pm   | Cascade (P&R + Pipelining)                                                   | Jackson Melchert  | Slides (TODO),[Paper](https://ieeexplore.ieee.org/abstract/document/10504565) |
+| 2:00-2:30pm   | Metamapper                                                                   | Jackson Melchert  | Slides                                                                |
+| 2:30-3:00pm   | Cascade (P&R + Pipelining)                                                   | Jackson Melchert  | Slides,[Paper](https://ieeexplore.ieee.org/abstract/document/10504565) |
 | 3:00-3:30pm   | Physical Design, Design Space Exploration,<br />and End-to-End Demonstration |                   |                                                                               |
-| 3:30-4:00pm   | APEX (Automated Processing Element Exporation)                               | Jackson Melchert  | Slides (TODO),[Paper](https://dl.acm.org/doi/abs/10.1145/3582016.3582070)     |
-| 4:30-5:00pm   | Mflwogen (Physical Design Flow Construction Tool)                            | Christopher Torng | Slides (TODO),[Paper](https://dl.acm.org/doi/10.1145/3489517.3530633)         |
-| 5:00-5:30pm   | End-to-End Demonstration and Debugging                                       | Kalhan Koul       | Slides (TODO)                                                                 |
+| 3:30-4:00pm   | APEX (Automated Processing Element Exporation)                               | Jackson Melchert  | Slides,[Paper](https://dl.acm.org/doi/abs/10.1145/3582016.3582070)     |
+| 4:30-5:00pm   | Mflwogen (Physical Design Flow Construction Tool)                            | Christopher Torng | Slides,[Paper](https://dl.acm.org/doi/10.1145/3489517.3530633)         |
+| 5:00-5:30pm   | End-to-End Demonstration and Debugging                                       | Kalhan Koul       | Slides                                                                 |
 
 ## Team
 
