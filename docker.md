@@ -26,7 +26,7 @@ Then you need to logout and log back in and after that you can verify you are pa
 <i>TODO: should we create a demo docker image instead??</i>
 
 The Docker image for this tutorial is available on DockerHub as 
-<a href=https://hub.docker.com/r/stanfordaha/garnet/>stanfordaha/garnet</a>.
+[stanfordaha/garnet](https://hub.docker.com/r/stanfordaha/garnet/).
 We will be using the one tagged `stanfordaha/garnet:latest` (about 6-8 GB in size).
 
 Download the Docker image by running the following command (on Windows 10 you should run it in the PowerShell).
@@ -59,7 +59,7 @@ docker run -it --name ${container_name} \
 
 ## MacOS and Windows 10
 
-The <a href=https://esp.cs.columbia.edu/tutorials/isca2024/docker/>ESP tutorial</a> has instructions for starting a container on MacOS and Windows, but most of the compexity seems to involve communicating with an X server, which we don't do. For our purposes, you should probably be able to use the same Linux `docker run` command as shown above, in a command or powershell window.
+The [ESP tutorial](https://esp.cs.columbia.edu/tutorials/isca2024/docker/) has instructions for starting a container on MacOS and Windows, but most of the compexity seems to involve communicating with an X server, which we don't do. For our purposes, you should probably be able to use the same Linux `docker run` command as shown above, in a command or powershell window.
 
 # Useful Docker commands
 ```
@@ -86,7 +86,7 @@ Complete Docker documentation can be found here: <https://docs.docker.com/>
 
 ## Attribution
 
-This tutorial was inspired by, and copied liberally from, Columbia's <a href=https://esp.cs.columbia.edu/tutorials/isca2024/docker/>ESP tutorial.</a>
+This tutorial was inspired by, and copied liberally from, Columbia's [ESP tutorial](https://esp.cs.columbia.edu/tutorials/isca2024/docker).
 
 
 
