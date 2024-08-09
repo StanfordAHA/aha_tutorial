@@ -2,7 +2,7 @@
 layout: default
 title: Stanford AHA Tutorial
 ---
-## [MICRO 2024](https://microarch.org/micro57/index.php) AHA Tutorial (WIP)
+## MICRO 2024 AHA Tutorial (WIP)
 
 A tutorial on the [Agile Hardware Design](https://aha.stanford.edu/) Flow from Stanford University
 
@@ -18,7 +18,9 @@ Tutorial registration: [Link](https://microarch.org/micro57/attend/register.php)
 
 Preliminary Setup: [**Read about Docker**]({{ site.baseurl }}/docker/)
 
-If you are interested in attending this tutorial, make sure to sign up for it when registering for MICRO.
+Tutorial Steps: (Coming soon!)
+
+If you are interested in attending this tutorial, make sure to sign up for it when registering for [MICRO 2024](https://microarch.org/micro57/index.php).
 
 ## Overview
 
@@ -39,24 +41,24 @@ Two options:
 | Time          | Agenda                                                                       | Speaker           | Material                                                                      |
 | :-------------- | ------------------------------------------------------------------------------ | ------------------- | ------------------------------------------------------------------------------- |
 |               | AHA Overview                                                                 |                   |                                                                               |
-| 9:00-9:40am   | Agile Hardware (AHA) Methodology                                             | Priyanka Raina    | Slides, [Paper](https://dl.acm.org/doi/10.1145/3534933)                 |
-| 9:40-10:00am  | AHA Docker Flow Setup                                                        | Kalhan Koul       | Slides                                                                 |
+| 9:00-9:40am   | Agile Hardware (AHA) Methodology                                             | [Priyanka Raina](https://priyanka-raina.github.io)    | Slides, [Paper](https://dl.acm.org/doi/10.1145/3534933)                 |
+| 9:40-10:00am  | AHA Docker Flow Setup                                                        | [Kalhan Koul](https://www.linkedin.com/in/kalhan-koul/)       | Slides                                                                 |
 |               | Hardware Domain Specific Languages (DSLs)                                    |                   |                                                                               |
-| 10:00-10:30am | Magma + Fault                                                                | Lenny Truong      | Slides, [Paper](https://dl.acm.org/doi/10.1007/978-3-030-53288-8_19)    |
+| 10:00-10:30am | Magma + Fault                                                                | [Lenny Truong]((https://truong.io/))      | Slides, [Paper](https://dl.acm.org/doi/10.1007/978-3-030-53288-8_19)    |
 | 10:30-11:00am | PEak                                                                         | Caleb Donovick    | Slides                                                                |
 | 11:00-11:30am | Lake                                                                         | Maxwell Strange   | Slides                                                                |
 | 11:30-12:00pm | Canal                                                                        | Jackson Melchert  | Slides, [Paper](https://ieeexplore.ieee.org/document/10105430)          |
 | 12:00-1:00pm  | Lunch                                                                        |                   |                                                                               |
 |               | Front-End Compiler                                                           |                   |                                                                               |
 | 1:00-1:30pm   | Halide + Clockwork Compiler                                                  | Jeff Setter       | Slides, [Paper](https://dl.acm.org/doi/10.1145/3572908)                 |
-| 1:30-2:00pm   | Custard Compiler + Sparse Lowering                                           | Olivia Hsu        | Slides, [Paper](https://dl.acm.org/doi/10.1145/3582016.3582051)         |
+| 1:30-2:00pm   | Custard Compiler + Sparse Lowering                                           | [Olivia Hsu](https://weiya711.github.io/)        | Slides, [Paper](https://dl.acm.org/doi/10.1145/3582016.3582051)         |
 |               | Back-End Compiler                                                            |                   |                                                                               |
 | 2:00-2:30pm   | Metamapper                                                                   | Jackson Melchert  | Slides                                                                |
 | 2:30-3:00pm   | Cascade (P&R + Pipelining)                                                   | Jackson Melchert  | Slides, [Paper](https://ieeexplore.ieee.org/abstract/document/10504565) |
 | 3:00-3:30pm   | Physical Design, Design Space Exploration,<br />and End-to-End Demonstration |                   |                                                                               |
 | 3:30-4:00pm   | APEX (Automated Processing Element Exporation)                               | Jackson Melchert  | Slides, [Paper](https://dl.acm.org/doi/abs/10.1145/3582016.3582070)     |
 | 4:30-5:00pm   | Mflwogen (Physical Design Flow Construction Tool)                            | Christopher Torng | Slides, [Paper](https://dl.acm.org/doi/10.1145/3489517.3530633)         |
-| 5:00-5:30pm   | End-to-End Demonstration and Debugging                                       | Kalhan Koul       | Slides                                                                 |
+| 5:00-5:30pm   | End-to-End Demonstration and Debugging                                       | [Kalhan Koul](https://www.linkedin.com/in/kalhan-koul/)        | Slides                                                                 |
 
 ## Team
 
@@ -69,7 +71,6 @@ Agile Hardware (AHA) group at Stanford University
 Dr. Raina is a 2018 Terman Faculty Fellow. She was a co-recipient of the Best Demo Paper Award at VLSI 2022, the Best Student Paper Award at VLSI 2021, the IEEE Journal of Solid-State Circuits (JSSC) Best Paper Award in 2020, the Best Paper Award at MICRO 2019, and the Best Young Scientist Paper Award at ESSCIRC 2016. She has won the Sloan Research Fellowship in 2024, the National Science Foundation (NSF) CAREER Award in 2023, the Intel Rising Star Faculty Award in 2021, and the Hellman Faculty Scholar Award in 2019. She was the Program Chair of the IEEE Hot Chips in 2020. She serves as an Associate Editor for the IEEE Journal of Solid-State Circuits and IEEE Solid-State Circuits Letters.
 
 **[Kalhan Koul](https://www.linkedin.com/in/kalhan-koul/)** is an Electrical Engineering Ph.D. student at Stanford University supervised by Professor Priyanka Raina. He received a B.S. in Electrical Engineering Honors and a B.A. in Plan II Honors (Liberal Arts) from the University of Texas in 2018. His research interests are in reconfigurable accelerator architectures and agile hardware design.
-\end{IEEEbiography}
 
 **[Lenny Truong](https://truong.io/)** received his Ph.D. from Stanford University supervised by Professor Pat Hanrahan.
 His research interests lie at the intersection of programming languages, compilers, and hardware.
