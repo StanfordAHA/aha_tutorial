@@ -9,6 +9,7 @@ title:  Stanford AHA
 <https://docs.docker.com/guides/docker-overview/>
 
 # Install Docker
+(This section is for linux machines; for MacOS and Windows installations, scroll down and see `MacOS and Windows` section below.)
 
 ```
 sudo systemctl start docker
