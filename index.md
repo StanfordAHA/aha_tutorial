@@ -97,13 +97,13 @@ Two options:
       <td colspan="4" style="text-align:center;"><b>Front-End Compiler</b></td>
     </tr>
     <tr>
-      <td>1:00 - 1:30 p.m.</td>
+      <td>11:30 - 12:00 p.m.</td>
       <td>Halide + Clockwork Compiler</td>
       <td>Jeff Setter</td>
       <td><a href="https://dl.acm.org/doi/10.1145/3572908">Paper</a>, Slides</td>
     </tr>
     <tr>
-      <td>1:30 - 2:00 p.m.</td>
+      <td>1:00 - 1:30 p.m.</td>
       <td>Custard Compiler + Sparse Lowering</td>
       <td><a href="https://weiya711.github.io/">Olivia Hsu</a></td>
       <td><a href="https://dl.acm.org/doi/10.1145/3582016.3582051">Paper</a>, Slides</td>
@@ -112,13 +112,13 @@ Two options:
       <td colspan="4" style="text-align:center;"><b>Back-End Compiler</b></td>
     </tr>
     <tr>
-      <td>2:00 - 2:30 p.m.</td>
+      <td>1:30 - 2:00 p.m.</td>
       <td>Metamapper</td>
       <td>Jackson Melchert</td>
       <td>Slides</td>
     </tr>
     <tr>
-      <td>2:30 - 3:00 p.m.</td>
+      <td>2:00 - 2:30 p.m.</td>
       <td>Cascade (P&R + Pipelining)</td>
       <td>Jackson Melchert</td>
       <td><a href="https://ieeexplore.ieee.org/abstract/document/10504565">Paper</a>, Slides</td>
@@ -127,19 +127,19 @@ Two options:
       <td colspan="4" style="text-align:center;"><b>Physical Design, Design Space Exploration,<br />and End-to-End Demonstration</b></td>
     </tr>
     <tr>
-      <td>3:30 - 4:00 p.m.</td>
+      <td>2:30 - 3:00 p.m.</td>
       <td>APEX (Automated Processing Element Exploration)</td>
       <td>Jackson Melchert</td>
       <td><a href="https://dl.acm.org/doi/abs/10.1145/3582016.3582070">Paper</a>, Slides</td>
     </tr>
     <tr>
-      <td>4:30 - 5:00 p.m.</td>
+      <td>3:30 - 4:00 p.m.</td>
       <td>Mflowgen (Physical Design Flow Construction Tool)</td>
       <td>Christopher Torng</td>
       <td><a href="https://dl.acm.org/doi/10.1145/3489517.3530633">Paper</a>, Slides</td>
     </tr>
     <tr>
-      <td>5:00 - 5:30 p.m.</td>
+      <td>4:30 - 5:00 p.m.</td>
       <td>End-to-End Demonstration and Debugging</td>
       <td><a href="https://www.linkedin.com/in/kalhan-koul/">Kalhan Koul</a></td>
       <td>Slides</td>
