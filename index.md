@@ -52,13 +52,13 @@ Two options:
       <td colspan="4" style="text-align:center;"><b>AHA Overview</b></td>
     </tr>
     <tr>
-      <td>9:00 - 9:40 a.m.</td>
+      <td>8:00 - 8:40 a.m.</td>
       <td>Agile Hardware (AHA) Methodology</td>
       <td><a href="https://priyanka-raina.github.io">Priyanka Raina</a></td>
       <td><a href="https://dl.acm.org/doi/10.1145/3534933">Paper</a>, Slides</td>
     </tr>
     <tr>
-      <td>9:40 - 10:00 a.m.</td>
+      <td>8:40 - 9:00 a.m.</td>
       <td>AHA Docker Flow Setup</td>
       <td><a href="https://www.linkedin.com/in/kalhan-koul/">Kalhan Koul</a></td>
       <td>Slides</td>
@@ -67,25 +67,25 @@ Two options:
       <td colspan="4" style="text-align:center;">Hardware Domain Specific Languages (DSLs)</td>
     </tr>
     <tr>
-      <td>10:00 - 10:30 a.m.</td>
+      <td>9:00 - 9:30 a.m.</td>
       <td>Magma + Fault</td>
       <td><a href="https://truong.io/">Lenny Truong</a></td>
       <td><a href="https://dl.acm.org/doi/10.1007/978-3-030-53288-8_19">Paper</a>, Slides</td>
     </tr>
     <tr>
-      <td>10:30 - 11:00 a.m.</td>
+      <td>9:30 - 10:00 a.m.</td>
       <td>PEak</td>
       <td>Caleb Donovick</td>
       <td>Slides</td>
     </tr>
     <tr>
-      <td>11:00 - 11:30 a.m.</td>
+      <td>10:30 - 11:00 a.m.</td>
       <td>Lake</td>
       <td>Maxwell Strange</td>
       <td>Slides</td>
     </tr>
     <tr>
-      <td>11:30 - 12:00 p.m.</td>
+      <td>11:00 - 11:30 p.m.</td>
       <td>Canal</td>
       <td>Jackson Melchert</td>
       <td><a href="https://ieeexplore.ieee.org/document/10105430">Paper</a>, Slides</td>
