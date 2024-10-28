@@ -85,7 +85,7 @@ Two options:
       <td>Slides</td>
     </tr>
     <tr>
-      <td>11:00 - 11:30 p.m.</td>
+      <td>11:00 - 11:30 a.m.</td>
       <td>Canal</td>
       <td>Jackson Melchert</td>
       <td><a href="https://ieeexplore.ieee.org/document/10105430">Paper</a>, Slides</td>
