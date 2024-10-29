@@ -5,8 +5,13 @@ title:  Stanford AHA
 ---
 # Using Docker to Run the AHA Flow
 
+The docker overview can tell you about what is docker and how to install it on your machine.
+
 [Docker Overview](https://docs.docker.com/guides/docker-overview/) :: 
 <https://docs.docker.com/guides/docker-overview/>
+
+[Installing Docker](https://docs.docker.com/get-started/get-docker) ::
+<https://docs.docker.com/get-started/get-docker>
 
 # Install Docker
 
