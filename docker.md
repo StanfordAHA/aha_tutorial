@@ -23,8 +23,6 @@ Then you need to logout and log back in and after that you can verify you are pa
 
 # Download the Docker image
 
-<i>TODO: should we create a demo docker image instead??</i>
-
 The Docker image for this tutorial is available on DockerHub as 
 [stanfordaha/garnet](https://hub.docker.com/r/stanfordaha/garnet/).
 We will be using the one tagged `stanfordaha/garnet:latest` (about 6-8 GB in size).
