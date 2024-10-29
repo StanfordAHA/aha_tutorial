@@ -18,9 +18,7 @@ Tutorial registration: [Link](https://microarch.org/micro57/attend/register.php)
 
 Preliminary setup: [**Read about Docker**]({{ site.baseurl }}/docker/)
 
-Tutorial steps: (Coming soon!)
-
-If you are interested in attending this tutorial, make sure to sign up for it when registering for [MICRO 2024](https://microarch.org/micro57/index.php).
+If you are interested in attending this tutorial, make sure to sign up for Sunday when registering for [MICRO 2024](https://microarch.org/micro57/index.php).
 
 ## Overview
 
