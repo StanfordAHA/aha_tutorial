@@ -12,7 +12,7 @@ Latest update: 7/30/24
 
 Tutorial date: Sunday, November 3rd, 2024
 
-Tutorial venue: [AT&T Hotel and Conference Center](https://www.google.com/maps/place/AT%26T+Hotel+and+Conference+Center/@30.2816295,-97.7404408,15z/data=!4m2!3m1!1s0x0:0x7ef52b1ad3321879?sa=X&ved=1t:2428&ictx=111), Austin, Texas (Room TBD)
+Tutorial venue: [AT&T Hotel and Conference Center](https://www.google.com/maps/place/AT%26T+Hotel+and+Conference+Center/@30.2816295,-97.7404408,15z/data=!4m2!3m1!1s0x0:0x7ef52b1ad3321879?sa=X&ved=1t:2428&ictx=111), Austin, Texas (Room 103)
 
 Tutorial registration: [Link](https://microarch.org/micro57/attend/register.php)
 
