@@ -34,7 +34,7 @@ We will be using the one tagged `stanfordaha/garnet:latest` (about 6-8 GB in siz
 
 Download the Docker image by running the following command (on Windows 10 you should run it in the PowerShell).
 ```
-docker pull stanfordaha/garnet:latest
+docker pull stanfordaha/garnet:micro-demos
 ```
 You may need to add login credentials to be able to pull. In that case you can add your credentials by running the following. A prompt will ask for your password as well.
 ```
@@ -48,7 +48,7 @@ docker login -u <your-dockerhub-username>
 In Linux, you should be able to launch the container by doing this
 ```
 container_name=any-name-you-like
-docker run -it -d --name ${container_name} stanfordaha/garnet:latest bash
+docker run -it -d --name ${container_name} stanfordaha/garnet:micro-demos bash
 ```
 <!-- THIS IS COMMENTED OUT
 Or, if that doesn't work so well, you can try this more complicated invocation, copied from the ESP tutorial (see "Attribution" section below). This command specifically includes security-opt and network arguments, and also maybe allows X connections from inside the container(?)
