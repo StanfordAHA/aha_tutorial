@@ -2,11 +2,11 @@
 layout: default
 title: Stanford AHA Tutorial
 ---
-## MICRO 2024 AHA Tutorial (WIP)
+## MICRO 2024 AHA Tutorial
 
 A tutorial on the [Agile Hardware Design](https://aha.stanford.edu/) Flow from Stanford University
 
-Latest update: 7/30/24
+Latest update: 11/1/24
 
 ## Logistics
 
