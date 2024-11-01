@@ -86,7 +86,7 @@ Two options:
       <td>11:00 - 11:30 a.m.</td>
       <td>Canal</td>
       <td>Jackson Melchert</td>
-      <td><a href="https://ieeexplore.ieee.org/document/10105430">Paper</a>, Slides</td>
+      <td><a href="https://ieeexplore.ieee.org/document/10105430">Paper</a>, <a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/2_DockerSetup.pdf">Slides</a></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align:center;"><b>Lunch 12:00 - 1:00 p.m.</b></td>
