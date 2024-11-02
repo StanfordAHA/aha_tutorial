@@ -77,6 +77,9 @@ Two options:
       <td><a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/4_PEak.pdf">Slides</a></td>
     </tr>
     <tr>
+      <td colspan="4" style="text-align:center;"><b>Coffee Break 10:00 - 10:30 p.m.</b></td>
+    </tr>
+    <tr>
       <td>10:30 - 11:00 a.m.</td>
       <td>Lake</td>
       <td>Maxwell Strange</td>
@@ -129,6 +132,9 @@ Two options:
       <td>APEX (Automated Processing Element Exploration)</td>
       <td>Jackson Melchert</td>
       <td><a href="https://dl.acm.org/doi/abs/10.1145/3582016.3582070">Paper</a>, <a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/11_MICRO-APEX.pdf">Slides</a></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align:center;"><b>Coffee Break 3:00 - 3:30 p.m.</b></td>
     </tr>
     <tr>
       <td>3:30 - 4:00 p.m.</td>
