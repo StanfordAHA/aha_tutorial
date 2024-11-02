@@ -68,25 +68,25 @@ Two options:
       <td>9:00 - 9:30 a.m.</td>
       <td>Magma + Fault</td>
       <td><a href="https://truong.io/">Lenny Truong</a></td>
-      <td><a href="https://dl.acm.org/doi/10.1007/978-3-030-53288-8_19">Paper</a>, Slides</td>
+      <td><a href="https://dl.acm.org/doi/10.1007/978-3-030-53288-8_19">Paper</a>, <a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/3_Magma_Fault.pdf">Slides</a></td>
     </tr>
     <tr>
       <td>9:30 - 10:00 a.m.</td>
       <td>PEak</td>
       <td>Caleb Donovick</td>
-      <td>Slides</td>
+      <td><a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/4_PEak.pdf">Slides</a></td>
     </tr>
     <tr>
       <td>10:30 - 11:00 a.m.</td>
       <td>Lake</td>
       <td>Maxwell Strange</td>
-      <td>Slides</td>
+      <td><a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/5_MICRO-Lake.pdf">Slides</a></td>
     </tr>
     <tr>
       <td>11:00 - 11:30 a.m.</td>
       <td>Canal</td>
       <td>Jackson Melchert</td>
-      <td><a href="https://ieeexplore.ieee.org/document/10105430">Paper</a>, Slides</td>
+      <td><a href="https://ieeexplore.ieee.org/document/10105430">Paper</a>, <a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/6_MICRO-Canal.pdf">Slides</a></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align:center;"><b>Lunch 12:00 - 1:00 p.m.</b></td>
@@ -98,13 +98,13 @@ Two options:
       <td>11:30 - 12:00 p.m.</td>
       <td>Halide + Clockwork Compiler</td>
       <td>Jeff Setter</td>
-      <td><a href="https://dl.acm.org/doi/10.1145/3572908">Paper</a>, Slides</td>
+      <td><a href="https://dl.acm.org/doi/10.1145/3572908">Paper</a>, <a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/7_MicroWorkshop_setter.pdf">Slides</a></td>
     </tr>
     <tr>
       <td>1:00 - 1:30 p.m.</td>
       <td>Custard Compiler + Sparse Lowering</td>
       <td><a href="https://weiya711.github.io/">Olivia Hsu</a></td>
-      <td><a href="https://dl.acm.org/doi/10.1145/3582016.3582051">Paper</a>, Slides</td>
+      <td><a href="https://dl.acm.org/doi/10.1145/3582016.3582051">Paper</a>, <a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/8_MICRO_Custard.pdf">Slides</a></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align:center;"><b>Back-End Compiler</b></td>
@@ -113,13 +113,13 @@ Two options:
       <td>1:30 - 2:00 p.m.</td>
       <td>Metamapper</td>
       <td>Jackson Melchert</td>
-      <td>Slides</td>
+      <td><a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/9_MICRO-MetaMapper.pdf">Slides</a></td>
     </tr>
     <tr>
       <td>2:00 - 2:30 p.m.</td>
       <td>Cascade (P&R + Pipelining)</td>
       <td>Jackson Melchert</td>
-      <td><a href="https://ieeexplore.ieee.org/abstract/document/10504565">Paper</a>, Slides</td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/10504565">Paper</a>, <a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/10_MICRO-Cascade.pdf">Slides</a></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align:center;"><b>Physical Design, Design Space Exploration,<br />and End-to-End Demonstration</b></td>
@@ -128,7 +128,7 @@ Two options:
       <td>2:30 - 3:00 p.m.</td>
       <td>APEX (Automated Processing Element Exploration)</td>
       <td>Jackson Melchert</td>
-      <td><a href="https://dl.acm.org/doi/abs/10.1145/3582016.3582070">Paper</a>, Slides</td>
+      <td><a href="https://dl.acm.org/doi/abs/10.1145/3582016.3582070">Paper</a>, <a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/11_MICRO-APEX.pdf">Slides</a></td>
     </tr>
     <tr>
       <td>3:30 - 4:00 p.m.</td>
@@ -140,7 +140,7 @@ Two options:
       <td>4:30 - 5:00 p.m.</td>
       <td>End-to-End Demonstration and Debugging</td>
       <td><a href="https://www.linkedin.com/in/kalhan-koul/">Kalhan Koul</a></td>
-      <td>Slides</td>
+      <td><a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/13_EndtoEnd.pdf">Slides</a></td>
     </tr>
   </tbody>
 </table>
