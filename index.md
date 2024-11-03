@@ -92,9 +92,6 @@ Two options:
       <td><a href="https://ieeexplore.ieee.org/document/10105430">Paper</a>, <a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/6_MICRO-Canal.pdf">Slides</a></td>
     </tr>
     <tr>
-      <td colspan="4" style="text-align:center;"><b>Lunch 12:00 - 1:00 p.m.</b></td>
-    </tr>
-    <tr>
       <td colspan="4" style="text-align:center;"><b>Front-End Compiler</b></td>
     </tr>
     <tr>
@@ -102,6 +99,9 @@ Two options:
       <td>Halide + Clockwork Compiler</td>
       <td>Jeff Setter</td>
       <td><a href="https://dl.acm.org/doi/10.1145/3572908">Paper</a>, <a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/7_MicroWorkshop_setter.pdf">Slides</a></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align:center;"><b>Lunch 12:00 - 1:00 p.m.</b></td>
     </tr>
     <tr>
       <td>1:00 - 1:30 p.m.</td>
@@ -143,7 +143,7 @@ Two options:
       <td><a href="https://dl.acm.org/doi/10.1145/3489517.3530633">Paper</a>, Slides</td>
     </tr>
     <tr>
-      <td>4:30 - 5:00 p.m.</td>
+      <td>4:00 - 4:30 p.m.</td>
       <td>End-to-End Demonstration and Debugging</td>
       <td><a href="https://www.linkedin.com/in/kalhan-koul/">Kalhan Koul</a></td>
       <td><a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/13_EndtoEnd.pdf">Slides</a></td>
