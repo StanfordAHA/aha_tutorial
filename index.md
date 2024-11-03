@@ -140,7 +140,7 @@ Two options:
       <td>3:30 - 4:00 p.m.</td>
       <td>Mflowgen (Physical Design Flow Construction Tool)</td>
       <td>Christopher Torng</td>
-      <td><a href="https://dl.acm.org/doi/10.1145/3489517.3530633">Paper</a>, Slides</td>
+      <td><a href="https://dl.acm.org/doi/10.1145/3489517.3530633">Paper</a>, <a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/12_mflowgen.pdf">Slides</a></td>
     </tr>
     <tr>
       <td>4:00 - 4:30 p.m.</td>
