@@ -53,7 +53,7 @@ Two options:
       <td>8:00 - 8:40 a.m.</td>
       <td>Agile Hardware (AHA) Methodology</td>
       <td><a href="https://priyanka-raina.github.io">Priyanka Raina</a></td>
-      <td><a href="https://dl.acm.org/doi/10.1145/3534933">Paper</a>, Slides</td>
+      <td><a href="https://dl.acm.org/doi/10.1145/3534933">Paper</a>, <td><a href="https://raw.githubusercontent.com/StanfordAHA/aha_tutorial/main/assets/images/1_AHA.pdf">Slides</a></td>
     </tr>
     <tr>
       <td>8:40 - 9:00 a.m.</td>
